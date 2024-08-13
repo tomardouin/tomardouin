@@ -15,7 +15,7 @@ I'm currently working on:
 <a href="https://www.mysql.com/" title="MySQL"><img src="icons/mysql.png" /></a>
 <a href="https://code.visualstudio.com/" title="Visual Studio Code"><img src="icons/vscode.png" /></a>
 <a href="https://en.wikipedia.org/wiki/JavaScript" title="JavaScript"><img src="icons/javascript.png" /></a>
-<a href="https://rubyonrails.org/" title="RubyOnRails"><img src="icons/rubyonrails.png" /></a>
+![Ruby on Rails](https://upload.wikimedia.org/wikipedia/commons/6/62/Ruby_On_Rails_Logo.svg)
 
 
 I'm currently learning:
