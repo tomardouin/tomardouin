@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-<img src="images/me.JPEG", width="150px", height="150px", align="right" />
+<img src="images/me.JPEG" width="150" height="200" align="right" />
 
-I'm Tom Ardouin, after leaving 42 due to different reasons, i start working and then back in numeric by completing le Wagon formation.
+I'm Tom Ardouin, after leaving 42 due to different reasons, i start working and then back in numeric by completing le Wagon Web Developper formation.
 
 I'm now looking for a job as Fullstack Developper in a company or startup.
 
