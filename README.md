@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<img src="images/me.JPEG" width="150" height="150" align="right" />
+<img src="images/me.JPEG" width="150" height="200" align="right" />
 
 I'm Tom Ardouin, after leaving 42 due to different reasons, i start working and then back in numeric by completing le Wagon formation.
 
