@@ -15,8 +15,8 @@ I'm currently working on:
 <a href="https://www.mysql.com/" title="MySQL"><img src="icons/mysql.png" /></a>
 <a href="https://code.visualstudio.com/" title="Visual Studio Code"><img src="icons/vscode.png" /></a>
 <a href="https://en.wikipedia.org/wiki/JavaScript" title="JavaScript"><img src="icons/javascript.png" /></a>
-<a href="https://rubyonrails.org/" title="RubyOnRails"><img src="https://upload.wikimedia.org/wikipedia/commons/6/62/Ruby_On_Rails_Logo.svg" alt="Ruby on Rails" width="100"/></a>
-<a href="https://stimulus.hotwired.dev/" title="Stimulus"><img src="icons/stimulus.png" width="40" height="40" /></a>
+<a href="https://rubyonrails.org/" title="RubyOnRails"><img src="https://upload.wikimedia.org/wikipedia/commons/6/62/Ruby_On_Rails_Logo.svg" alt="Ruby on Rails" width="64" height="32" /></a>
+<a href="https://stimulus.hotwired.dev/" title="Stimulus"><img src="icons/stimulus.png" width="32" height="32" /></a>
 
 
 I'm currently learning:
