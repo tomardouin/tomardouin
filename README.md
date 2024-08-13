@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<img src="images/me.JPEG" width="150px", height="150px", align="right" />
+<img src="images/me.JPEG", width="150px", height="150px", align="right" />
 
 I'm Tom Ardouin, after leaving 42 due to different reasons, i start working and then back in numeric by completing le Wagon formation.
 
@@ -15,6 +15,7 @@ I'm currently working on:
 <a href="https://www.mysql.com/" title="MySQL"><img src="icons/mysql.png" /></a>
 <a href="https://code.visualstudio.com/" title="Visual Studio Code"><img src="icons/vscode.png" /></a>
 <a href="https://en.wikipedia.org/wiki/JavaScript" title="JavaScript"><img src="icons/javascript.png" /></a>
+<a href="https://rubyonrails.org/" title="RubyOnRails"><img src="icons/rubyonrails.png" /></a>
 
 
 I'm currently learning:
