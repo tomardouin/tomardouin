@@ -2,9 +2,9 @@
 
 <img src="images/me.JPEG" width="150" height="200" align="right" />
 
-I'm Tom Ardouin, after leaving 42, i start working and then back in numeric by completing le Wagon Web Developper formation.
+I'm Tom Ardouin. After leaving 42, I started working and then returned to the tech field by completing the Le Wagon Web Developer bootcamp.
 
-I'm now looking for a job as Fullstack Developper in a company or startup.
+I am now seeking a position as a Fullstack Developer in a company or startup. I am also open to an apprenticeship (alternance) in a company, particularly working with Python or React.
 
 ------------------------------------------------------------
 
