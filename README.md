@@ -22,5 +22,5 @@ I'm currently working on:
 I'm currently learning:
 
 <a href="https://reactjs.org/" title="React"><img src="icons/react.png" /></a>
-<a href="https://www.djangoproject.com/" title="Django"><img src="https://static.djangoproject.com/img/logos/django-logo-positive.png" /></a>
+<a href="https://www.djangoproject.com/" title="Django"><img src="https://static.djangoproject.com/img/logos/django-logo-positive.png" alt="Django" width="64" height="32" /></a>
 
